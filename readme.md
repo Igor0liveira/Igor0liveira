@@ -12,11 +12,11 @@
 <h2><i>A b o u t &ensp; M e</i>&ensp;🙋‍♂️</h2>
 <br>
 <div style="display: flex;">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" heigth="100%" alt="Mario programming">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"  alt="Mario programming">
 
 <br>
 
- <ul width="50%"  style="padding-left:6%;">
+ <ul width="50%">
     <li><b>Passionate about programming | 😍</b></li><br>
     <li><b>Search for knowledge in the area of programming | 📖</b></li><br>
     <li><b>Analyze and improve developer skills
@@ -35,8 +35,8 @@
 <h2><i>A c t i v e</i>&ensp;📌</h2>
 <div width="100%">
    <a href="https://github.com/igor0liveira" style="display:flex;gap:20px" align="center">
-   <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=igor0liveira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor0liveira&layout=compact&langs_count=6&theme=transparent"/>
+   <img height="50%"  src="https://github-readme-stats.vercel.app/api?username=igor0liveira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor0liveira&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
 <div  width="100%" height="50%" style="margin-top:20px;" align="center">
