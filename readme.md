@@ -57,7 +57,7 @@
 <div align="center">
 
 
-![Typing SVG](https://github.com/Igor0liveira/Igor0liveira/assets/174902013/ff76186f-9b18-4e65-be61-09559e3f88c0)
+<img align="center" alt="github contribution playground of SSR" src="https://github.com/Igor0liveira/Igor0liveira/assets/174902013/a02d53a3-fe75-40d3-86c3-d4b94879e816">
 
 </div>
 
